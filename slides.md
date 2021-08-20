@@ -1,5 +1,5 @@
 ---
-theme: ./theme
+theme: default
 class: text-center
 highlighter: prism
 colorSchema: light
